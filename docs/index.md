@@ -14,7 +14,7 @@ hero:
   #     text: API Examples
   #     link: /api-examples
   image:
-    src: ./assets/logo.png
+    src: ./logo.png
     alt: minP AI Logo
     width: 320
     height: 320
